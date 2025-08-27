@@ -9,11 +9,13 @@
     </div>
 
 
-👋 Hi, I'm a Graduate Student at The University of Texas at Dallas pursuing a degree in Business Analytics & Artificial Intelligence. With 4 years of work experience as a data professional, I’m passionate about leveraging data analytics, machine learning, and business intelligence to solve complex problems and drive data-driven decisions.
+👋 Hi, I’m Abhinav! I recently earned my Master’s in Business Analytics & Artificial Intelligence from The University of Texas at Dallas, and I bring 5+ years of experience as an AI/ML Engineer and Data Engineer.
 
-💡 My skill set includes Python, SQL, Tableau, Power BI, ETL, Data Manipulation, Data Visualization, Descriptive Analytics, Statistics, Probability, and Machine Learning. I enjoy working on projects that transform raw data into actionable insights.
+💡 I specialize in building LLM-powered applications, Retrieval-Augmented Generation (RAG) systems, and scalable data pipelines. My projects span healthcare AI, enterprise NLP tools, and MLOps automation across AWS, Azure, and Kubernetes. 
 
-🚀 Let's collaborate on innovative projects or explore opportunities to create impactful solutions together!
+⚙️ My toolkit includes Python, SQL, PySpark, Hugging Face Transformers, LangChain, TensorFlow, PyTorch, FAISS, Snowflake, Tableau, and Power BI. I’m passionate about turning complex data and cutting-edge AI into solutions that deliver measurable impact.
+
+🚀 Always open to collaborating on innovative projects in Generative AI, Data Engineering, and Applied Machine Learning — let’s connect and build something impactful!
 
 
 <h3> 🛠 &nbsp;Tech Stack <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"></h3>
@@ -64,7 +66,7 @@ IDE:
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 
-<a href="mailto:abhinavsahu2604@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-abhinavsahu2604@gmail.com-blue?style=flat-square&logo=gmail"></a><br>
+<a href="mailto:abhinavsahu2604@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-abhinavsahu2695@gmail.com-blue?style=flat-square&logo=gmail"></a><br>
 <a href="https://www.instagram.com/abhs_2604//"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-abhs2604-blue?style=flat-square&logo=instagram"></a>
 
 <hr>
