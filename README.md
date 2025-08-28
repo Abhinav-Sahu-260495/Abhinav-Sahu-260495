@@ -21,42 +21,84 @@
 <h3> 🛠 &nbsp;Tech Stack <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"></h3>
 
 
-Languages:
-  ![PYTHON](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=ML)
-  ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=ML)
-  ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=ML)
-  ![Power BI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=ML)
-  ![T-SQL](https://img.shields.io/badge/-T%20SQL-333333?style=flat&logo=ML)
+**Languages & Querying:**  
+![Python](https://img.shields.io/badge/Python-FF5733?style=flat&logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-FF5733?style=flat) 
+![T-SQL](https://img.shields.io/badge/T--SQL-FF5733?style=flat) 
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-FF5733?style=flat) 
+![R](https://img.shields.io/badge/R-FF5733?style=flat&logo=r&logoColor=white)  
 
-Frameworks:
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white")
-  ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white")
-  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=ML)
-  ![Scikit-learn](https://img.shields.io/badge/-Scikit%20learn-333333?style=flat&logo=ML)
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=ML)
-  ![XGBoost](https://img.shields.io/badge/-XGBoost-333333?style=flat&logo=ML)
-  ![NLTK](https://img.shields.io/badge/-NLTK-333333?style=flat&logo=ML)
-  ![spaCy](https://img.shields.io/badge/-spaCy-333333?style=flat&logo=ML)
-  ![XGBoost](https://img.shields.io/badge/-XGBoost-333333?style=flat&logo=ML)
-    
+**Frameworks & ML Libraries:**  
+![Pandas](https://img.shields.io/badge/Pandas-2980B9?style=flat) 
+![NumPy](https://img.shields.io/badge/NumPy-2980B9?style=flat) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-2980B9?style=flat) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-2980B9?style=flat) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2980B9?style=flat) 
+![PyTorch](https://img.shields.io/badge/PyTorch-2980B9?style=flat) 
+![HuggingFace](https://img.shields.io/badge/HuggingFace-2980B9?style=flat) 
+![Keras](https://img.shields.io/badge/Keras-2980B9?style=flat) 
+![OpenAI](https://img.shields.io/badge/OpenAI-2980B9?style=flat) 
+![XGBoost](https://img.shields.io/badge/XGBoost-2980B9?style=flat) 
+![NLTK](https://img.shields.io/badge/NLTK-2980B9?style=flat) 
+![spaCy](https://img.shields.io/badge/spaCy-2980B9?style=flat)  
 
-Analytical Tools:
-  ![MS Excel](https://img.shields.io/badge/-MS%20Excel-333333?style=flat&logo=ML)
-  ![Alterxy](https://img.shields.io/badge/-Alterxy-333333?style=flat&logo=ML)
-  ![Spark](https://img.shields.io/badge/-Spark-333333?style=flat&logo=ML)
-  ![Hive](https://img.shields.io/badge/-Hive-333333?style=flat&logo=ML)
-  ![Impala](https://img.shields.io/badge/-Impala-333333?style=flat&logo=ML)
+**Machine Learning & AI:**  
+![LLMs](https://img.shields.io/badge/LLMs-9B59B6?style=flat) 
+![LangChain](https://img.shields.io/badge/LangChain-9B59B6?style=flat) 
+![RAG](https://img.shields.io/badge/RAG-9B59B6?style=flat) 
+![Embeddings](https://img.shields.io/badge/Embeddings-9B59B6?style=flat) 
+![FAISS](https://img.shields.io/badge/FAISS-9B59B6?style=flat) 
+![Pinecone](https://img.shields.io/badge/Pinecone-9B59B6?style=flat) 
+![Weaviate](https://img.shields.io/badge/Weaviate-9B59B6?style=flat) 
+![NLP](https://img.shields.io/badge/NLP-9B59B6?style=flat) 
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-9B59B6?style=flat) 
+![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-9B59B6?style=flat) 
+![Forecasting](https://img.shields.io/badge/Forecasting-9B59B6?style=flat) 
+![Classification](https://img.shields.io/badge/Classification-9B59B6?style=flat)  
 
+**Data Engineering & ETL:**  
+![PySpark](https://img.shields.io/badge/PySpark-27AE60?style=flat) 
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-27AE60?style=flat) 
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-27AE60?style=flat) 
+![Hive](https://img.shields.io/badge/Hive-27AE60?style=flat) 
+![Impala](https://img.shields.io/badge/Impala-27AE60?style=flat) 
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-27AE60?style=flat) 
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-27AE60?style=flat) 
+![dbt](https://img.shields.io/badge/dbt-27AE60?style=flat)  
 
-Version Control:
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+**Cloud & Big Data Platforms:**  
+![AWS](https://img.shields.io/badge/AWS-F1C40F?style=flat) 
+![Azure](https://img.shields.io/badge/Azure-F1C40F?style=flat) 
+![Google BigQuery](https://img.shields.io/badge/BigQuery-F1C40F?style=flat)  
 
-IDE:
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-333333?style=flat&logo=ML)
-  ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=ML)
-  ![PyCharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=Pycharm-code&logoColor=007ACC)
+**Databases & Warehousing:**  
+![Snowflake](https://img.shields.io/badge/Snowflake-E67E22?style=flat) 
+![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-E67E22?style=flat) 
+![SQL Server](https://img.shields.io/badge/SQL%20Server-E67E22?style=flat) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E67E22?style=flat)  
+
+**MLOps & Workflow Automation:**  
+![MLflow](https://img.shields.io/badge/MLflow-16A085?style=flat) 
+![CI/CD](https://img.shields.io/badge/CI%2FCD-16A085?style=flat) 
+![Model Deployment](https://img.shields.io/badge/Deployment-16A085?style=flat) 
+![Monitoring](https://img.shields.io/badge/Monitoring-16A085?style=flat) 
+![Docker](https://img.shields.io/badge/Docker-16A085?style=flat) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-16A085?style=flat) 
+![Git](https://img.shields.io/badge/Git-16A085?style=flat) 
+![GitHub](https://img.shields.io/badge/GitHub-16A085?style=flat) 
+![Jira](https://img.shields.io/badge/Jira-16A085?style=flat) 
+![Confluence](https://img.shields.io/badge/Confluence-16A085?style=flat)  
+
+**BI & Visualization:**  
+![Tableau](https://img.shields.io/badge/Tableau-C0392B?style=flat) 
+![Power BI](https://img.shields.io/badge/Power%20BI-C0392B?style=flat) 
+![Amazon QuickSight](https://img.shields.io/badge/QuickSight-C0392B?style=flat) 
+![Excel](https://img.shields.io/badge/Excel-C0392B?style=flat)  
+
+**IDE:**  
+![VS Code](https://img.shields.io/badge/VS%20Code-2C3E50?style=flat) 
+![Jupyter](https://img.shields.io/badge/Jupyter-2C3E50?style=flat) 
+![PyCharm](https://img.shields.io/badge/PyCharm-2C3E50?style=flat)  
 
 
 <h3 align="left"><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=22 height=22>Connect with me:</h3> 
