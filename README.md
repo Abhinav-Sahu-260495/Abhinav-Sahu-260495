@@ -1,22 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi!+I'm+Abhinav+Sahu+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi!+I'm+Abhinav+Sahu+👋;AI%2FML+Engineer;Agentic+AI+Developer;RAG+%26+LLM+Specialist;GenAI+Engineer)](https://git.io/typing-svg)
 
-AI/ML Engineer | Data Scientist | 5+ Years of Experience | Data Analyst
+AI/ML Engineer | Agentic AI Developer | RAG & LLM Specialist | 5+ Years of Experience
 <div align=center>
-          <img alt="gif" align="center" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width=800 height=500/>
-    </div>
-
-<div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines= Hi+there+I'm+Abhinav+Sahu+%F0%9F%91%8B;Data+Analyst;Data+Scientist;ML+Enthusiast; alt="Headline" />
+          <img alt="AI coding gif" align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width=600 height=400/>
     </div>
 
 
-👋 Hi, I’m Abhinav! I recently earned my Master’s in Business Analytics & Artificial Intelligence from The University of Texas at Dallas, and I bring 5+ years of experience as an AI/ML Engineer and Data Engineer.
+👋 Hi, I’m Abhinav! I hold a Master’s in Business Analytics & Artificial Intelligence from The University of Texas at Dallas, and bring 5+ years of experience as an AI/ML Engineer, with a proven track record of building production-ready Agentic AI systems, advanced RAG architectures, and LLM-powered workflows.
 
-💡 I specialize in building LLM-powered applications, Retrieval-Augmented Generation (RAG) systems, and scalable data pipelines. My projects span healthcare AI, enterprise NLP tools, and MLOps automation across AWS, Azure, and Kubernetes. 
+💡 I specialize in designing multi-agent orchestration frameworks using LangGraph and building optimized backend AI microservices with FastAPI and Pydantic. My professional background spans telecommunications, healthcare, and financial domains, where I've successfully deployed high-impact AI/ML solutions.
 
-⚙️ My toolkit includes Python, SQL, PySpark, Hugging Face Transformers, LangChain, TensorFlow, PyTorch, FAISS, Snowflake, Tableau, and Power BI. I’m passionate about turning complex data and cutting-edge AI into solutions that deliver measurable impact.
+⚙️ My toolkit includes Python, FastAPI, Pydantic, LangChain, LangGraph, OpenAI, Claude, Gemini, Hugging Face Transformers, TensorFlow, PyTorch, FAISS, Pinecone, and SQL/vector data stores. I’m passionate about turning cutting-edge AI into solutions that deliver measurable impact.
 
-🚀 Always open to collaborating on innovative projects in Generative AI, Data Engineering, and Applied Machine Learning — let’s connect and build something impactful!
+🚀 Always open to collaborating on innovative projects in Agentic AI, RAG, and Applied Machine Learning — let’s connect and build something impactful!
 
 
 <h3> 🛠 &nbsp;Tech Stack <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"></h3>
@@ -31,72 +27,73 @@ AI/ML Engineer | Data Scientist | 5+ Years of Experience | Data Analyst
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-FF5733?style=for-the-badge) 
 ![R](https://img.shields.io/badge/R-FF5733?style=for-the-badge&logo=r&logoColor=white)  
 
-**Frameworks & ML Libraries:**  
-![Pandas](https://img.shields.io/badge/Pandas-2980B9?style=for-the-badge) 
-![NumPy](https://img.shields.io/badge/NumPy-2980B9?style=for-the-badge) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-2980B9?style=for-the-badge) 
+**GenAI & Agentic AI:**  
+![LLMs](https://img.shields.io/badge/LLMs-9B59B6?style=for-the-badge) 
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-9B59B6?style=for-the-badge) 
+![Multi--Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-9B59B6?style=for-the-badge) 
+![RAG](https://img.shields.io/badge/RAG-9B59B6?style=for-the-badge) 
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-9B59B6?style=for-the-badge) 
+![Tool Calling](https://img.shields.io/badge/Tool%20%2F%20Function%20Calling-9B59B6?style=for-the-badge) 
+![LangChain](https://img.shields.io/badge/LangChain-9B59B6?style=for-the-badge) 
+![LangGraph](https://img.shields.io/badge/LangGraph-9B59B6?style=for-the-badge) 
+![LangFlow](https://img.shields.io/badge/LangFlow-9B59B6?style=for-the-badge) 
+![OpenAI](https://img.shields.io/badge/OpenAI-9B59B6?style=for-the-badge) 
+![Claude](https://img.shields.io/badge/Claude-9B59B6?style=for-the-badge) 
+![Gemini](https://img.shields.io/badge/Gemini-9B59B6?style=for-the-badge) 
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-9B59B6?style=for-the-badge)  
+
+**Backend AI & API:**  
+![FastAPI](https://img.shields.io/badge/FastAPI-27AE60?style=for-the-badge&logo=fastapi&logoColor=white) 
+![Pydantic](https://img.shields.io/badge/Pydantic-27AE60?style=for-the-badge) 
+![REST APIs](https://img.shields.io/badge/REST%20APIs-27AE60?style=for-the-badge) 
+![Microservices](https://img.shields.io/badge/Microservices-27AE60?style=for-the-badge) 
+![Server--Sent Events](https://img.shields.io/badge/Server--Sent%20Events-27AE60?style=for-the-badge)  
+
+**Machine Learning & NLP:**  
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-2980B9?style=for-the-badge) 
+![NLP](https://img.shields.io/badge/NLP-2980B9?style=for-the-badge) 
+![Transformers](https://img.shields.io/badge/Transformers-2980B9?style=for-the-badge) 
+![BERT](https://img.shields.io/badge/BERT-2980B9?style=for-the-badge) 
+![HuggingFace](https://img.shields.io/badge/HuggingFace-2980B9?style=for-the-badge) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-2980B9?style=for-the-badge) 
+![XGBoost](https://img.shields.io/badge/XGBoost-2980B9?style=for-the-badge) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2980B9?style=for-the-badge) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-2980B9?style=for-the-badge) 
-![HuggingFace](https://img.shields.io/badge/HuggingFace-2980B9?style=for-the-badge) 
 ![Keras](https://img.shields.io/badge/Keras-2980B9?style=for-the-badge) 
-![OpenAI](https://img.shields.io/badge/OpenAI-2980B9?style=for-the-badge) 
-![XGBoost](https://img.shields.io/badge/XGBoost-2980B9?style=for-the-badge) 
-![NLTK](https://img.shields.io/badge/NLTK-2980B9?style=for-the-badge) 
 ![spaCy](https://img.shields.io/badge/spaCy-2980B9?style=for-the-badge)  
 
-**Machine Learning & AI:**  
-![LLMs](https://img.shields.io/badge/LLMs-9B59B6?style=for-the-badge) 
-![LangChain](https://img.shields.io/badge/LangChain-9B59B6?style=for-the-badge) 
-![RAG](https://img.shields.io/badge/RAG-9B59B6?style=for-the-badge) 
-![Embeddings](https://img.shields.io/badge/Embeddings-9B59B6?style=for-the-badge) 
-![FAISS](https://img.shields.io/badge/FAISS-9B59B6?style=for-the-badge) 
-![Pinecone](https://img.shields.io/badge/Pinecone-9B59B6?style=for-the-badge) 
-![Weaviate](https://img.shields.io/badge/Weaviate-9B59B6?style=for-the-badge) 
-![NLP](https://img.shields.io/badge/NLP-9B59B6?style=for-the-badge) 
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-9B59B6?style=for-the-badge) 
-![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-9B59B6?style=for-the-badge) 
-![Forecasting](https://img.shields.io/badge/Forecasting-9B59B6?style=for-the-badge) 
-![Classification](https://img.shields.io/badge/Classification-9B59B6?style=for-the-badge)  
-
-**Data Engineering & ETL:**  
-![PySpark](https://img.shields.io/badge/PySpark-27AE60?style=for-the-badge) 
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-27AE60?style=for-the-badge) 
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-27AE60?style=for-the-badge) 
-![Hive](https://img.shields.io/badge/Hive-27AE60?style=for-the-badge) 
-![Impala](https://img.shields.io/badge/Impala-27AE60?style=for-the-badge) 
-![AWS Glue](https://img.shields.io/badge/AWS%20Glue-27AE60?style=for-the-badge) 
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-27AE60?style=for-the-badge) 
-![dbt](https://img.shields.io/badge/dbt-27AE60?style=for-the-badge)  
-
-**Cloud & Big Data Platforms:**  
-![AWS](https://img.shields.io/badge/AWS-F1C40F?style=for-the-badge) 
-![Azure](https://img.shields.io/badge/Azure-F1C40F?style=for-the-badge) 
-![Google BigQuery](https://img.shields.io/badge/BigQuery-F1C40F?style=for-the-badge)  
-
-**Databases & Warehousing:**  
+**Data & Vector Stores:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E67E22?style=for-the-badge) 
+![BigQuery](https://img.shields.io/badge/BigQuery-E67E22?style=for-the-badge) 
 ![Snowflake](https://img.shields.io/badge/Snowflake-E67E22?style=for-the-badge) 
 ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-E67E22?style=for-the-badge) 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-E67E22?style=for-the-badge) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E67E22?style=for-the-badge)  
+![pgvector](https://img.shields.io/badge/pgvector-E67E22?style=for-the-badge) 
+![FAISS](https://img.shields.io/badge/FAISS-E67E22?style=for-the-badge) 
+![Pinecone](https://img.shields.io/badge/Pinecone-E67E22?style=for-the-badge) 
+![Weaviate](https://img.shields.io/badge/Weaviate-E67E22?style=for-the-badge) 
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-E67E22?style=for-the-badge) 
+![ChromaDB](https://img.shields.io/badge/ChromaDB-E67E22?style=for-the-badge) 
+![Hybrid Search](https://img.shields.io/badge/Hybrid%20Search-E67E22?style=for-the-badge)  
 
-**MLOps & Workflow Automation:**  
-![MLflow](https://img.shields.io/badge/MLflow-16A085?style=for-the-badge) 
-![CI/CD](https://img.shields.io/badge/CI%2FCD-16A085?style=for-the-badge) 
-![Model Deployment](https://img.shields.io/badge/Deployment-16A085?style=for-the-badge) 
-![Monitoring](https://img.shields.io/badge/Monitoring-16A085?style=for-the-badge) 
-![Docker](https://img.shields.io/badge/Docker-16A085?style=for-the-badge) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-16A085?style=for-the-badge) 
-![Git](https://img.shields.io/badge/Git-16A085?style=for-the-badge) 
-![GitHub](https://img.shields.io/badge/GitHub-16A085?style=for-the-badge) 
-![Jira](https://img.shields.io/badge/Jira-16A085?style=for-the-badge) 
-![Confluence](https://img.shields.io/badge/Confluence-16A085?style=for-the-badge)  
+**Cloud & Deployment:**  
+![AWS](https://img.shields.io/badge/AWS-F1C40F?style=for-the-badge) 
+![Azure](https://img.shields.io/badge/Azure-F1C40F?style=for-the-badge) 
+![GCP](https://img.shields.io/badge/GCP-F1C40F?style=for-the-badge) 
+![SageMaker](https://img.shields.io/badge/SageMaker-F1C40F?style=for-the-badge) 
+![Docker](https://img.shields.io/badge/Docker-F1C40F?style=for-the-badge) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-F1C40F?style=for-the-badge) 
+![MLflow](https://img.shields.io/badge/MLflow-F1C40F?style=for-the-badge) 
+![CI/CD](https://img.shields.io/badge/CI%2FCD-F1C40F?style=for-the-badge) 
+![Monitoring](https://img.shields.io/badge/Monitoring-F1C40F?style=for-the-badge) 
+![Git](https://img.shields.io/badge/Git-F1C40F?style=for-the-badge) 
+![GitHub](https://img.shields.io/badge/GitHub-F1C40F?style=for-the-badge)  
 
-**BI & Visualization:**  
+**Data Analytics & BI:**  
+![Pandas](https://img.shields.io/badge/Pandas-C0392B?style=for-the-badge) 
+![NumPy](https://img.shields.io/badge/NumPy-C0392B?style=for-the-badge) 
 ![Tableau](https://img.shields.io/badge/Tableau-C0392B?style=for-the-badge) 
 ![Power BI](https://img.shields.io/badge/Power%20BI-C0392B?style=for-the-badge) 
-![Amazon QuickSight](https://img.shields.io/badge/QuickSight-C0392B?style=for-the-badge) 
-![Excel](https://img.shields.io/badge/Excel-C0392B?style=for-the-badge)  
+![Amazon QuickSight](https://img.shields.io/badge/QuickSight-C0392B?style=for-the-badge)  
 
 **IDE:**  
 ![VS Code](https://img.shields.io/badge/VS%20Code-2C3E50?style=for-the-badge) 
